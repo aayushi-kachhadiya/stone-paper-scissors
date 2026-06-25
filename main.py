@@ -6,7 +6,7 @@
 import random
  
 computer = random.choice([1,-1,0])
-you = input("Enter r/p/s")
+you = input("Enter r/p/s :")
 youdict = {"r" : 1,
            "p" : -1,
            "s" : 0}

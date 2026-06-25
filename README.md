@@ -1,3 +1,7 @@
+## Preview
+
+![Stone Paper Scissors](Screenshot.png)
+
 # 🎮 Stone Paper Scissors
 
 A simple command-line Stone Paper Scissors game built with Python.
